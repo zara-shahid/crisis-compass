@@ -235,9 +235,6 @@ crisis-compass/
 - [x] Community Help Board
 - [x] Offline Mode (PWA)
 - [x] Mobile responsive navigation
-- [ ] Push notifications for nearby disaster alerts
-- [ ] AI Damage Analysis via photo upload
-- [ ] Community board real-time updates
 
 ---
 
