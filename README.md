@@ -15,7 +15,7 @@ A tactical, AI-powered emergency response platform built to help people stay cal
 [![Groq](https://img.shields.io/badge/AI-Groq%20LLM-F55036?style=flat-square)](https://groq.com)
 [![PWA](https://img.shields.io/badge/PWA-Offline%20Ready-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 
-[Live Demo](https://crisis-compass.vercel.app) | [Report a Bug](https://github.com/zara-shahid/crisis-campus/issues) | [API Docs](http://localhost:8000/docs)
+[Live Demo](https://crisis-compass-c6us.vercel.app/) | [Report a Bug](https://github.com/zara-shahid/crisis-campus/issues) | [API Docs](http://localhost:8000/docs)
 
 </div>
 
